@@ -1,4 +1,4 @@
-cosnt tombolSapa = document.getElementbyId('sapabutton');
-tombolSapa.addEventListener('click', Function()  {
+cosnt tombolSapa = document.getElementById('sapaButton');
+tombolSapa.addEventListener('click', function()  {
     alert('Halo! Terimakasih sudah berkunjung!');
 }); 
